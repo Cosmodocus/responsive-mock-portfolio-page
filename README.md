@@ -1,8 +1,33 @@
-# React + Vite
+✨ Portfolio Page Project from Scratch
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack:
+React with Vite
+Tailwind CSS
+📚 Resources:
+React/Tailwind Documents
+YouTube
+Google
+AI Assistants (ChatGPT, Perplexity)
+Reddit
+GitHub
+Free Downloadable Images/Designs/Icons from websites
+🧩 Component Structure Within the App.jsx:
+Navbar.jsx
+Header.jsx
+About.jsx
+Skills/Experience.jsx
+Projects/Work.jsx
+Contact.jsx
+Footer.jsx
+🎨 Design Choices:
+Font Family: Some form of sans serif
+Colour Scheme: Simple black and white to start
+🛠️ Methods that will probably be used:
+Components
+useState
+Updater Functions
+Conditional Rendering
+Animations (Hover, Transition, etc)
+React-Icons
+Event Listeners (onClick, onChange)
+Responsive Design with Tailwind
